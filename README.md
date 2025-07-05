@@ -1,10 +1,10 @@
 # Food Delivery Web App
 
-A full-stack **Food Delivery Web Application** that simulates an online food ordering experience. Users can log in, browse the menu, add items to a cart, and place orders with real-time feedback.
+A full-stack **Food Delivery Web Application** that simulates an online food ordering experience. Users can log in, browse the menu, add items to a cart, and place orders.
 
 ## Features
 
-- User Authentication (Login/Signup)
+- User Authentication (Login/Signup) with JWT
 - Responsive UI for browsing food menu
 - Interactive Cart & Order Placement
 - Real-time UI Updates
